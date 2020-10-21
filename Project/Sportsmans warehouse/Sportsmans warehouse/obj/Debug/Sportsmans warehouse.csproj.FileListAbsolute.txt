@@ -1,0 +1,35 @@
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Sportsmans warehouse.exe.config
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Sportsmans warehouse.exe
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Sportsmans warehouse.pdb
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.csprojAssemblyReference.cache
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Home.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Login.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Properties.Resources.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.csproj.GenerateResource.cache
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.exe
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.pdb
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Inventory.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Place_Order.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Delete_Order.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Reports.resources
+E:\User data\Universityd\2de jaar\CMPG223\Projek\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Suppliers.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.csprojAssemblyReference.cache
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.exe
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.pdb
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Suppliers.mdf
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Suppliers_log.ldf
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Sportsmans warehouse.exe.config
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Sportsmans warehouse.exe
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Sportsmans warehouse.pdb
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Delete_Order.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Home.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Inventory.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Login.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Reports.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Place_Order.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Properties.Resources.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans_warehouse.Suppliers.resources
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.csproj.GenerateResource.cache
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\obj\Debug\Sportsmans warehouse.csproj.CoreCompileInputs.cache
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Inventory.mdf
+C:\Users\heino\OneDrive\Desktop\Project\Sportsmans warehouse\Sportsmans warehouse\bin\Debug\Inventory_log.ldf
